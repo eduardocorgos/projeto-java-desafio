@@ -1,5 +1,3 @@
-Aqui está o conteúdo prontinho para você colar no seu projeto. Crie um arquivo chamado `README.md` na raiz do projeto e cole o conteúdo abaixo:
-
 ```markdown
 # 💸 Banco Simples em Java
 
